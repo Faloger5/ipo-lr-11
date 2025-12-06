@@ -1,3 +1,4 @@
+#Доброва Анна
 import requests  # Импортируем библиотеку requests для выполнения HTTP-запросов
 from bs4 import BeautifulSoup  # Импортируем BeautifulSoup для парсинга HTML-страниц
 import json  # Импортируем json для сохранения данных в файл
